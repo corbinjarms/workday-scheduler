@@ -4,7 +4,7 @@
 ### I leveraged the moment js library for time based information and formatting
 ### based on the time of day, a user is informed if the hours are past, present, or future
 ### Input validation is performed  
-![Application landing page](./assets/Images/Screenshot.PNG)
+![Application landing page](./assets/images/Screenshot.PNG)
 ### Here is a link to the deployed application
 [https://corbinjarms.github.io/workday-scheduler/](https://corbinjarms.github.io/workday-scheduler/)
 - - -
